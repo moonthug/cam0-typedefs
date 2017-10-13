@@ -1,0 +1,15 @@
+{
+  "name": "cam0-typedefs",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonthug/cam0-typedefs.git"
+  },
+  "author": "alex <alex@polyglot.rodeo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonthug/cam0-typedefs/issues"
+  },
+  "homepage": "https://github.com/moonthug/cam0-typedefs#readme"
+}
